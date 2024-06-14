@@ -2,6 +2,10 @@
 
 Bu proje, yapay sinir ağı kullanarak ruh sağlığı durumunu tahmin eden bir modelin geliştirilmesi ve değerlendirilmesi üzerine yapılmıştır. Aşağıda modelin tanımlanması, kullanılan veri seti, eğitim sonuçları ve test performansı hakkında detaylar bulabilirsiniz.
 
+# Veri seti
+
+https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset
+
 ## Model Tanımı
 
 Yapay sinir ağı modeli, Keras kütüphanesi üzerinde geliştirilmiştir. Modelin katmanları ve aktivasyon fonksiyonları aşağıdaki gibidir:
